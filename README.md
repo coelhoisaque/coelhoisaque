@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Isaque Coelho
 
 - 🌱 Estudando Java
-- 📫 Contate-me no enail: isaquecoelho.dj@gmail.com
+- 📫 Contate-me no email: isaquecoelho.dj@gmail.com
 
 <div align="center">
   <a href="https://github.com/Isaque-cdj">
