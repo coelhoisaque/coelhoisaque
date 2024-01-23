@@ -23,7 +23,7 @@ Olá, eu sou um entusiasta da tecnologia apaixonado por desafios. Atualmente, es
 
 <div align="center">
   <a href="https://github.com/Isaque-cdj">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Isaque-cdj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-cdj&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api?username=Isaque-cdj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-cdj&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
