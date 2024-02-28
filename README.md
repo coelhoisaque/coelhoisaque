@@ -16,6 +16,8 @@ Olá, eu sou um entusiasta da tecnologia apaixonado por desafios. Atualmente, es
 [![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma&labelColor=black&logoWidth=20&logoHeight=20)](https://www.figma.com/)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://openjdk.java.net/)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
