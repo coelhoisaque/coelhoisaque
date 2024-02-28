@@ -12,7 +12,7 @@ Olá, eu sou um entusiasta da tecnologia apaixonado por desafios. Atualmente, es
 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://git-scm.com/)
 [![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://code.visualstudio.com/)
-[![Eclipse IDE](https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://www.eclipse.org/)
+[![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://www.eclipse.org/)
 [![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma&labelColor=black&logoWidth=20&logoHeight=20)](https://www.figma.com/)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://openjdk.java.net/)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
