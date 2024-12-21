@@ -20,4 +20,11 @@ Olá, eu sou um entusiasta da tecnologia apaixonado por desafios. Atualmente, es
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Isaque-cdj">
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Isaque-cdj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaque-cdj&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
