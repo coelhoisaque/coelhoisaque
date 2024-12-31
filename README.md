@@ -15,6 +15,7 @@ Olá, eu sou um entusiasta da tecnologia apaixonado por desafios. Atualmente, es
 [![Eclipse IDE](https://img.shields.io/badge/EclipseIDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://www.eclipse.org/)
 [![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma&labelColor=black&logoWidth=20&logoHeight=20)](https://www.figma.com/)
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://openjdk.java.net/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://en.cppreference.com/w/c)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&logoWidth=20&logoHeight=20)](https://developer.mozilla.org/en-US/docs/Web/CSS)
