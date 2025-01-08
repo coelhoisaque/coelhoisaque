@@ -1,6 +1,6 @@
 # Isaque Coelho
 
-Olá, eu sou um entusiasta da tecnologia apaixonado por desafios. Atualmente, estou cursando Sistemas de Informação, com previsão de formatura em 2024. Explorarndo novas oportunidades e buscando contribuir para o mundo da tecnologia.
+Olá, meu nome é Isaque, e sou estudante de Sistemas de Informação em busca de oportunidades no mercado de tecnologia. Sou apaixonado pelo universo da tecnologia e venho aprimorando minhas habilidades, com foco especial em Java e programação orientada a objetos. Além disso, mantenho-me atualizado explorando diversas outras tecnologias de forma paralela. Estou entusiasmado para aplicar meus conhecimentos e contribuir efetivamente em projetos desafiadores.
 
 ## Conecte- comigo
 
