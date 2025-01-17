@@ -2,7 +2,7 @@
 
 Olá, meu nome é Isaque, e sou estudante de Sistemas de Informação em busca de oportunidades no mercado de tecnologia. Sou apaixonado pelo universo da tecnologia e venho aprimorando minhas habilidades, com foco especial em Java e programação orientada a objetos. Além disso, mantenho-me atualizado explorando diversas outras tecnologias de forma paralela. Estou entusiasmado para aplicar meus conhecimentos e contribuir efetivamente em projetos desafiadores.
 
-## Conecte- comigo
+## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-coelho-431384121/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:isaquecoelho.dj+gitmd@gmail.com)
