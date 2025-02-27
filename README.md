@@ -25,7 +25,7 @@ Olá, meu nome é Isaque, e sou estudante de Sistemas de Informação em busca d
 
 <div align="center">
   <a href="https://github.com/coelhoisaque">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=coelhoisaque&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=coelhoisaque&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhoisaque&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
