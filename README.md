@@ -34,7 +34,18 @@ Sou desenvolvedor de software com formação em Sistemas de Informação, focado
 
 <div align="center">
   <a href="https://github.com/coelhoisaque">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=coelhoisaque&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhoisaque&layout=compact&langs_count=8&theme=dark"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=coelhoisaque&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      width="420"
+      height="180"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhoisaque&layout=compact&langs_count=8&theme=dark"
+      width="420"
+      height="180"
+    />
+  </a>
 </div>
+
+
 
