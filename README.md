@@ -1,6 +1,6 @@
 # Isaque Coelho
 
-Olá, meu nome é Isaque, e sou estudante de Sistemas de Informação em busca de oportunidades no mercado de tecnologia. Sou apaixonado pelo universo da tecnologia e venho aprimorando minhas habilidades, com foco especial em Java e programação orientada a objetos. Além disso, mantenho-me atualizado explorando diversas outras tecnologias de forma paralela. Estou entusiasmado para aplicar meus conhecimentos e contribuir efetivamente em projetos desafiadores.
+Sou desenvolvedor de software com formação em Sistemas de Informação, focado na construção de soluções práticas e bem estruturadas.  Tenho interesse especial em desenvolvimento back-end, automação e tecnologias que resolvem problemas reais. Atualmente busco evoluir tecnicamente e colaborar em projetos com impacto positivo.
 
 ## Conecte-se comigo
 
